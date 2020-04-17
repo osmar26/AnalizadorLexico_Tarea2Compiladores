@@ -2,7 +2,6 @@
 ### Tarea 2
 
 Elaborar un analizador léxico en lex para la siguiente especificación: 
-Analizador Lexico
 - Identificardores que comiencen con # seguidos al menos de una letra o un dígito, puede incluir más de uno.
 - Palabras reservadas @if, @else, @while
 - Operadores (Elegir los símbplos para cada uno)
