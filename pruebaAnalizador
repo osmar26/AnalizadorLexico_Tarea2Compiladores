@@ -1,0 +1,75 @@
+#id3
+#a1
+#a000
+#aaaa
+#1111
+#ABC
+#aB1
+#2Aa
+#22aa
+
+@if
+@else
+@while
+
++
+-
+/
+%
+*
+
+>
+<
+>=
+<=
+==
+!=
+=
+
+&&
+||
+not
+
+,
+{}
+()
+(
+)
+{
+}
+;
+
+/*Este es un cmentario en el txt de prueba*/
+
+12
+
+12.5F
+1.3F 
+0.5f
+3.5f 
+1E+3f
+12.1
+ 
+@if #id3 == #a1 || #a1 < #a3
+@else #1
+
+@while{
+    @if (#1<=#2)
+        #aa=#aa
+}
+
+
+#
+#!
+
+/*  
+asd
+as
+*/
+
+@i f
+@el se
+no t
+AS
+@IF
+
